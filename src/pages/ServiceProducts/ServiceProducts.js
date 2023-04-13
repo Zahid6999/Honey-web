@@ -14,7 +14,7 @@ const ServiceProducts = () => {
             })
     }, [])
     return (
-        <div className=' grid grid-cols-3 gap-8 lg:mx-40 mt-32'>
+        <div className=' grid grid-cols-3 gap-8  mx-[200px] mt-32'>
             {
                 products.map(product => <ServiceCarousel
                     key={product._id}
