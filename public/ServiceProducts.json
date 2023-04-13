@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dark Honey",
+        "price": "10.50",
+        "wight": "1kg",
+        "img": "https://i.ibb.co/dgFcP8M/items-1.png"
+    },
+    {
+        "name": "Premium Honey",
+        "price": "12.50",
+        "wight": "1kg",
+        "img": "https://i.ibb.co/k5KYt1r/items-2.png"
+    },
+    {
+        "name": "Jarrah Honey",
+        "price": "13.80",
+        "wight": "1kg",
+        "img": "https://i.ibb.co/nwZVxFJ/items-3.png"
+    },
+    {
+        "name": "Organaic Honey",
+        "price": "12.50",
+        "wight": "1kg",
+        "img": "https://i.ibb.co/ZK1xVfM/items-4.png"
+    },
+    {
+        "name": "Pure Honey",
+        "price": "99.50",
+        "wight": "5kg",
+        "img": "https://kandrafoods.com/wp-content/uploads/2021/03/honey-varieties-with-comb-and-pollen.jpg"
+    },
+    {
+        "name": "Row & Regular Honey",
+        "price": "50.50",
+        "wight": "3kg",
+        "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/324/324966/raw-honey-vs-regular-honey-on-table.jpg"
+    }
+]
